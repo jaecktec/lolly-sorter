@@ -8,5 +8,7 @@ Since the target audience was children to young adults I needed to have simple t
 
 The code is built for this hardtware: https://diyodemag.com/projects/lolly_sorter
 
+Small note to the sorting box, I've added one extra tray, since our Smarties came with one color extra
+
 
 Feel free to do whatever you want :)
